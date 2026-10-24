@@ -17,4 +17,4 @@ Created `src/services/api.js` utilizing Axios with:
 - Response Interceptor handling `401`, `403`, and `5xx` errors globally.
 
 ## Live Application URL
-https://devmarket-api-service.vercel.app
+https://build-resilient-api-service-layer-v.vercel.app/
